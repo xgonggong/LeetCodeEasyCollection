@@ -1,2 +1,2 @@
 # LeetCodeEasyCollection
-solutions of leetcode questions of easy difficulty 
+my solutions for leetcode questions of easy difficulty 
